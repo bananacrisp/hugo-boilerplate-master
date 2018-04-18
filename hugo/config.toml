@@ -1,19 +1,18 @@
-baseURL= "/"
-languageCode= "en"
-title= "AMBA Business School Search Test"
-paginate = 5
+baseURL = "/"
 copyright = "All rights reserved - 2018"
-theme = "hugo-theme-casper"
 disableKinds = ["taxonomy", "taxonomyTerm"]
-
+languageCode = "en"
+paginate = 5
+theme = "hugo-theme-casper"
+title = "AMBA Business School Search Test"
 [params]
-  description = "Search for a programme"
-  metadescription = "The place to find your MBA programme"
-  cover = "/img/darius-soodmand-116253.jpg"
-  author = "YOUR_NAME"
-  authorlocation = "Earth, Milky Way Galaxy"
-  authorwebsite = ""
-  authorbio= ""
-  logo = ""
-  hjsStyle = "default"
-  paginatedsections = ["posts"]
+author = "YOUR_NAME"
+authorbio = ""
+authorlocation = "Earth, Milky Way Galaxy"
+authorwebsite = ""
+cover = "/img/darius-soodmand-116253.jpg"
+description = "Search for a programme"
+hjsstyle = "default"
+logo = ""
+metadescription = "The place to find your MBA programme"
+paginatedsections = ["posts"]
