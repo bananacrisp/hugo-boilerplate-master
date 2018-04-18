@@ -1,4 +1,3 @@
-
   "scripts": {
     "start": "gulp server",
     "preview": "cross-env NODE_ENV=production HUGO_ARGS=preview gulp server",
