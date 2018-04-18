@@ -17,7 +17,6 @@
     "stylelint:fix": "npm run stylelint:css --fix && npm run stylelint:scss --fix",
     "stylelint:css": "./node_modules/stylelint/bin/stylelint.js src/css/**/*.css",
     "stylelint:scss": "./node_modules/stylelint/bin/stylelint.js src/scss/**/*.scss",
-    "prepush": "npm run eslint && npm run stylelint"
   },
   "devDependencies": {
     "babel-eslint": "^6.1.2",
